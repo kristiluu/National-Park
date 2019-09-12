@@ -1,4 +1,4 @@
-#Amir Alaj & Kristi Luu; Lab4; CIS 41B
+#Amir Alaj & Kristi Luu;
 #This program uses a web API from 'https://www.nps.gov/subjects/developer/index.htm' and creates a GUI that
 #allows the user to look up what national parks are in specific states and allows them to save the description
 #of selected parks into a txt file, that txt file is saved to a directory of the users choice.
